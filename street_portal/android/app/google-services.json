@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086250200633",
+    "project_id": "streetportal-c83ab",
+    "storage_bucket": "streetportal-c83ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086250200633:android:a919188602b447eb52e7e8",
+        "android_client_info": {
+          "package_name": "com.sp.street_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086250200633-rmm0rcher8vhj8po6gb12rcanl4a53lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi0dnXHwpkKQu775pg6pic-P3VpYXOTzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086250200633-rmm0rcher8vhj8po6gb12rcanl4a53lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
